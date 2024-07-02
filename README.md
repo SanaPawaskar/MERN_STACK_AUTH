@@ -21,3 +21,6 @@
      Node.js and Express deliver high performance and scalability. MongoDB serves as our flexible and powerful database, 
      while JSON Web Tokens (JWT) handle secure authentication, ensuring that
      only authorized users can access protected resources.
+
+
+https://mern-stack-auth-jdh2.onrender.com   - link where it is deployed
