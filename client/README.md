@@ -1,8 +1,20 @@
-# React + Vite
+# Auth app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+        This is a full-stack web application built with the MERN (MongoDB,
+        Express, React, Node.js) stack. It includes authentication features that
+        allow users to sign up, log in, and log out, and provides access to
+        protected routes only for authenticated users.
 
-Currently, two official plugins are available:
+        **Features**
+        - User authentication
+        - Protected routes
+        - User profile page
+        - User settings page
+        - User account deletion
+        - User password reset
+        - User email verification
+        - User email change
+        - User password change
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+     My MERN stack application features a sophisticated architecture to ensure seamless user interactions and secure data handling. The front-end, built with React and managed by React Router, provides a dynamic and responsive user experience. On the server side, Node.js and Express deliver high performance and scalability. MongoDB serves as our flexible and powerful database, while JSON Web Tokens (JWT) handle secure authentication, ensuring that only authorized users can access protected resources.
+     
